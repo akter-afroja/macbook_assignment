@@ -5,7 +5,7 @@ const storageBtn512gb = document.getElementById("storage2");
 const storageBtn1tb = document.getElementById("storage3");
 const deliveryBtnFree = document.getElementById("delivery1");
 const deliveryBtnCharge = document.getElementById("delivery2");
-// const btnAll = document.querySelectorAll(".btn");
+const btnAll = document.querySelectorAll(".btn");
 
 const bestPrice = document.getElementById("best-price");
 const memoryPrice = document.getElementById("memory-cost");
